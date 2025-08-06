@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# YOLO model weights and outputs
+*.pt
+*.pth
+runs/
+weights/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Video files (optional - remove if needed)
+*.mp4
+*.avi
+
+# Output folders
+output/
+exports/
