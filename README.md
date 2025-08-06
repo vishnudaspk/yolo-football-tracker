@@ -34,10 +34,10 @@ The system supports enhanced video preprocessing (exposure correction, contrast 
 
 > 📸 *Insert sample annotated frames or short clips here*
 
-* ![Sample Output 1](images\1.png)
-* ![Sample Output 2](images\2.png)
-* ![Sample Output 3](images\3.png)
-* ![Sample Output 4](images\4.png)
+* ![Sample Output 1](images/1.png)
+* ![Sample Output 2](images/2.png)
+* ![Sample Output 3](images/3.png)
+* ![Sample Output 4](images/4.png)
 
 ---
 
